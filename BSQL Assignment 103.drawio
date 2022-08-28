@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-27T04:36:00.409Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.84 Safari/537.36" etag="TtI2oXrzlRIGUoPcqESp" version="20.2.7" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-08-28T03:34:47.593Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.84 Safari/537.36" etag="IaL7UpfBVSd0qd6mq_ET" version="20.2.7" type="github" pages="3">
   <diagram name="ex1" id="e56a1550-8fbb-45ad-956c-1786394a9013">
     <mxGraphModel dx="994" dy="564" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -156,34 +156,34 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="2QmXWXQhHO9CwWQ-SPkW-15" value="Column" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="2QmXWXQhHO9CwWQ-SPkW-15" value="Column" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="110" y="60" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="2QmXWXQhHO9CwWQ-SPkW-16" value="Data type" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="2QmXWXQhHO9CwWQ-SPkW-16" value="Data type" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="230" y="60" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="2QmXWXQhHO9CwWQ-SPkW-17" value="ID" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="2QmXWXQhHO9CwWQ-SPkW-17" value="ID" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="110" y="120" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="2QmXWXQhHO9CwWQ-SPkW-18" value="&lt;span style=&quot;font-family: Muli, sans-serif; font-size: 15px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;ModifiedDate&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="2QmXWXQhHO9CwWQ-SPkW-18" value="&lt;span style=&quot;font-family: Muli, sans-serif; font-size: 15px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;ModifiedDate&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="110" y="300" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="2QmXWXQhHO9CwWQ-SPkW-19" value="Code" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="2QmXWXQhHO9CwWQ-SPkW-19" value="Code" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="110" y="240" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="2QmXWXQhHO9CwWQ-SPkW-20" value="Name" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="2QmXWXQhHO9CwWQ-SPkW-20" value="Name" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="110" y="180" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="2QmXWXQhHO9CwWQ-SPkW-21" value="int" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="2QmXWXQhHO9CwWQ-SPkW-21" value="int identity(1,1) primary key" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="230" y="120" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="2QmXWXQhHO9CwWQ-SPkW-22" value="Char(50)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="2QmXWXQhHO9CwWQ-SPkW-22" value="Char(50)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="230" y="180" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="2QmXWXQhHO9CwWQ-SPkW-23" value="Varchar(5)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="2QmXWXQhHO9CwWQ-SPkW-23" value="Varchar(5)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="230" y="240" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="2QmXWXQhHO9CwWQ-SPkW-24" value="Smalldatetime" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="2QmXWXQhHO9CwWQ-SPkW-24" value="Smalldatetime" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="230" y="300" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
@@ -194,40 +194,40 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="ASx7LnkUKc0S-k7tM8Z2-1" value="Column" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ASx7LnkUKc0S-k7tM8Z2-1" value="Column" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="110" y="60" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ASx7LnkUKc0S-k7tM8Z2-2" value="Data type" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ASx7LnkUKc0S-k7tM8Z2-2" value="Data type" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="230" y="60" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ASx7LnkUKc0S-k7tM8Z2-3" value="ID" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ASx7LnkUKc0S-k7tM8Z2-3" value="ID" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="110" y="120" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ASx7LnkUKc0S-k7tM8Z2-4" value="&lt;span style=&quot;font-family: Muli, sans-serif; font-size: 15px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;Gender&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ASx7LnkUKc0S-k7tM8Z2-4" value="&lt;span style=&quot;font-family: Muli, sans-serif; font-size: 15px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;Gender&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="110" y="300" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ASx7LnkUKc0S-k7tM8Z2-5" value="&lt;span style=&quot;font-family: Muli, sans-serif; font-size: 15px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;BirthDate&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ASx7LnkUKc0S-k7tM8Z2-5" value="&lt;span style=&quot;font-family: Muli, sans-serif; font-size: 15px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;BirthDate&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="110" y="240" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ASx7LnkUKc0S-k7tM8Z2-6" value="Name" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ASx7LnkUKc0S-k7tM8Z2-6" value="Name" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="110" y="180" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ASx7LnkUKc0S-k7tM8Z2-7" value="int" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ASx7LnkUKc0S-k7tM8Z2-7" value="int identity(1,1) primary key" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="230" y="120" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ASx7LnkUKc0S-k7tM8Z2-8" value="Nchar(50)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ASx7LnkUKc0S-k7tM8Z2-8" value="Nchar(50)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="230" y="180" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ASx7LnkUKc0S-k7tM8Z2-9" value="Date" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ASx7LnkUKc0S-k7tM8Z2-9" value="Date" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="230" y="240" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ASx7LnkUKc0S-k7tM8Z2-10" value="Bit" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ASx7LnkUKc0S-k7tM8Z2-10" value="Bit" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="230" y="300" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ASx7LnkUKc0S-k7tM8Z2-11" value="&lt;span style=&quot;font-family: Muli, sans-serif; font-size: 15px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;IsDeletedFlag&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ASx7LnkUKc0S-k7tM8Z2-11" value="&lt;span style=&quot;font-family: Muli, sans-serif; font-size: 15px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;IsDeletedFlag&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="110" y="360" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ASx7LnkUKc0S-k7tM8Z2-12" value="Bit" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ASx7LnkUKc0S-k7tM8Z2-12" value="Bit" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="230" y="360" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
